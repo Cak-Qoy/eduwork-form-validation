@@ -6,6 +6,7 @@ export default class FormInput extends React.Component {
     render() {
         return (
             <>
+                
                 <Form />
             </>
         )
